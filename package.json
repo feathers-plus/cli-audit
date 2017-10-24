@@ -1,7 +1,7 @@
 {
   "name": "@feathers-x/feathers-plus-cli-audit",
   "description": "Audit projects.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/feathers-x/project-control",
   "main": "lib/",
   "keywords": [
