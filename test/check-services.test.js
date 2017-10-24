@@ -1,6 +1,6 @@
 
 const { assert } = require('chai');
-const { join, parse } = require('path');
+const { join } = require('path');
 const { cwd } = require('process');
 
 const { checkServices } = require('../lib');

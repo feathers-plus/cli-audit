@@ -23,6 +23,4 @@ Work in progress.
 
 ## License
 
-Copyright (c) 2017 John J. Szwaronek
-
-Licensed under the [MIT license](LICENSE).
+Copyright (c) 2017 John J. Szwaronek. All rights reserved.
