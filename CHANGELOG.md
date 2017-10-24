@@ -1,5 +1,11 @@
 # Change Log
 
+## [v0.0.8](https://github.com/feathers-x/feathers-plus-cli-audit/tree/v0.0.8) (2017-10-24)
+[Full Changelog](https://github.com/feathers-x/feathers-plus-cli-audit/compare/v0.0.7...v0.0.8)
+
+## [v0.0.7](https://github.com/feathers-x/feathers-plus-cli-audit/tree/v0.0.7) (2017-10-24)
+[Full Changelog](https://github.com/feathers-x/feathers-plus-cli-audit/compare/v0.0.6...v0.0.7)
+
 ## [v0.0.6](https://github.com/feathers-x/feathers-plus-cli-audit/tree/v0.0.6) (2017-10-24)
 [Full Changelog](https://github.com/feathers-x/feathers-plus-cli-audit/compare/v0.0.5...v0.0.6)
 
