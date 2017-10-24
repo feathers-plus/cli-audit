@@ -45,7 +45,9 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {},
+  "dependencies": {
+    "acorn": "5.1.2"
+  },
   "devDependencies": {
     "chai": "3.5.0",
     "istanbul": "1.1.0-alpha.1",

@@ -16,38 +16,13 @@ npm install project-control --save
 
 ## Documentation
 
-Please refer to the [project-control documentation](http://docs.feathersjs.com/) for more details.
+Work in progress.
 
 ## Complete Example
 
-Here's an example of a Feathers server that uses `project-control`. 
-
-```js
-const feathers = require('feathers');
-const rest = require('feathers-rest');
-const hooks = require('feathers-hooks');
-const bodyParser = require('body-parser');
-const errorHandler = require('feathers-errors/handler');
-const plugin = require('project-control');
-
-// Initialize the application
-const app = feathers()
-  .configure(rest())
-  .configure(hooks())
-  // Needed for parsing bodies (login)
-  .use(bodyParser.json())
-  .use(bodyParser.urlencoded({ extended: true }))
-  // Initialize your feathers plugin
-  .use('/plugin', plugin())
-  .use(errorHandler());
-
-app.listen(3030);
-
-console.log('Feathers app started on 127.0.0.1:3030');
-```
 
 ## License
 
-Copyright (c) 2017
+Copyright (c) 2017 John J. Szwaronek
 
 Licensed under the [MIT license](LICENSE).
