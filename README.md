@@ -6,12 +6,12 @@
 [![Dependency Status](https://img.shields.io/david/feathers-x/project-control.svg?style=flat-square)](https://david-dm.org/feathers-x/project-control)
 [![Download Status](https://img.shields.io/npm/dm/project-control.svg?style=flat-square)](https://www.npmjs.com/package/project-control)
 
-> Things to help control projects.
+> Audit projects.
 
 ## Installation
 
 ```
-npm install project-control --save
+npm install @feathers-x/feathers-plus-cli-audit --save
 ```
 
 ## Documentation

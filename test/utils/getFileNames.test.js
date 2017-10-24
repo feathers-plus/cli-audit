@@ -94,7 +94,7 @@ describe('get-file-names.test.js', () => {
         '__tests__/inner-dir/yy.test.js',
         '__tests__/rsvp.seeder.test.js',
         '__tests__/rsvp.service.test.js',
-        'misplaced-test.test.js',
+        'misplaced-test.test.js'
       ];
 
       const names = getFileNames.sync('/**/*', {
@@ -119,7 +119,7 @@ describe('get-file-names.test.js', () => {
         'rsvp.filters.js',
         'rsvp.hooks.js',
         'rsvp.seeder.js',
-        'rsvp.service.js',
+        'rsvp.service.js'
       ];
 
       const names = getFileNames.sync('/**/*', {
