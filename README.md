@@ -1,4 +1,4 @@
-# project-control
+# @feathers-x/feathers-plus-cli-audit
 
 [![Build Status](https://travis-ci.org/feathers-x/project-control.png?branch=master)](https://travis-ci.org/feathers-x/project-control)
 [![Code Climate](https://codeclimate.com/github/feathers-x/project-control/badges/gpa.svg)](https://codeclimate.com/github/feathers-x/project-control)
@@ -8,18 +8,10 @@
 
 > Audit projects.
 
-## Installation
-
-```
-npm install @feathers-x/feathers-plus-cli-audit --save
-```
-
 ## Documentation
 
-Work in progress.
-
-## Complete Example
-
+Called by [@feathers-x/feathers-plus-cli](https://github.com/feathers-x/feathers-plus-cli)
+to audit the current project. 
 
 ## License
 
