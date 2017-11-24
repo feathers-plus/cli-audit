@@ -1,7 +1,7 @@
 {
   "name": "@feathers-x/cli-audit",
   "description": "Audit projects.",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "homepage": "https://feathers-plus.github.io",
   "main": "lib/",
   "keywords": [
