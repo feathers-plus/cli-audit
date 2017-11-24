@@ -1,4 +1,4 @@
-# @feathers-x/feathers-plus-cli-audit
+# @feathers-x/cli-audit
 
 [![Build Status](https://travis-ci.org/feathers-x/project-control.png?branch=master)](https://travis-ci.org/feathers-x/project-control)
 [![Code Climate](https://codeclimate.com/github/feathers-x/project-control/badges/gpa.svg)](https://codeclimate.com/github/feathers-x/project-control)
@@ -10,7 +10,7 @@
 
 ## Documentation
 
-Called by [@feathers-x/feathers-plus-cli](https://github.com/feathers-x/feathers-plus-cli)
+Called by [@feathers-x/cli](https://github.com/feathers-x/cli)
 to audit the current project. 
 
 ## License

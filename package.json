@@ -1,8 +1,8 @@
 {
-  "name": "@feathers-x/feathers-plus-cli-audit",
+  "name": "@feathers-x/cli-audit",
   "description": "Audit projects.",
   "version": "0.0.9",
-  "homepage": "https://github.com/feathers-x/project-control",
+  "homepage": "https://feathers-plus.github.io",
   "main": "lib/",
   "keywords": [
     "project",
@@ -11,7 +11,7 @@
   "license": "Copyright. All rights reserved.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathers-x/project-control.git"
+    "url": "git://github.com/feathers-x/cli-audit.git"
   },
   "author": {
     "name": "John J. Szwaronek",
@@ -19,7 +19,7 @@
   },
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/feathers-x/project-control/issues"
+    "url": "https://github.com/feathers-x/cli-audit/issues"
   },
   "engines": {
     "node": ">= 8.6.0"
