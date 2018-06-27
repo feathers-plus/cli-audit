@@ -1,6 +1,6 @@
 # @feathers-plus/cli-audit
 
-> Audit projects.
+> Audit FeathersJS projects.
 
 ## Documentation
 
